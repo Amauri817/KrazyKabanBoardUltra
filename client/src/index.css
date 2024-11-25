@@ -24,7 +24,7 @@ input:-moz-placeholder {
 
 a {
   font-weight: 500;
-  color: #000000;
+  color: #04d1f5;
   text-decoration: inherit;
 }
 a:hover {
@@ -32,7 +32,7 @@ a:hover {
 }
 
 body {
-  background: #ECF0F1;
+  background: #036780;
   background-size: cover;
   background-repeat: no-repeat no-repeat;
   background-position: center center;
@@ -105,7 +105,7 @@ tbody tr:nth-child(odd) {
 }
 
 .nav-title a {
-  color: #b864c4;
+  color: #be1515;
 }
 
 .nav-item {
@@ -240,6 +240,7 @@ tbody tr:nth-child(odd) {
   width: 100%;
   align-items: center;
   justify-content: center;
+  background-color: rgba(245, 222, 179, 0.226);
 }
 
 
